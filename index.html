@@ -36,7 +36,7 @@
   .cost{font-size:15px;font-weight:600}
   .cost small{font-size:11px;font-weight:500;color:var(--mid);margin-left:4px}
   .retail{font-size:11px;color:var(--mid)}
-  .pill{position:absolute;top:10px;left:10px;font-size:10px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;padding:5px 9px;border-radius:999px;background:var(--greenbg);color:var(--green)}
+  .pill{position:absolute;z-index:3;top:10px;left:10px;font-size:10px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;padding:5px 9px;border-radius:999px;background:var(--greenbg);color:var(--green)}
   .vars{font-size:11px;color:var(--mid)}
   /* missing */
   .card.missing{background:#fbfbfc;border-style:dashed;border-color:#d9dbdf}
@@ -47,7 +47,7 @@
   .card.missing .sku{color:#a9adb4}
   .card.missing .shot::after{content:"Awaiting source";position:absolute;inset:0;display:flex;align-items:center;justify-content:center;
     font-family:Oswald,sans-serif;font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:#8b8f97;
-    background:repeating-linear-gradient(45deg,rgba(255,255,255,.55) 0 10px,rgba(255,255,255,.25) 10px 20px)}
+    z-index:2;background:repeating-linear-gradient(45deg,rgba(255,255,255,.62) 0 10px,rgba(255,255,255,.3) 10px 20px)}
   .note{margin-top:34px;padding-top:20px;border-top:1px solid var(--line);color:var(--mid);font-size:12px;line-height:1.7;display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
   .note b{color:var(--ink);font-weight:600}
 </style>
