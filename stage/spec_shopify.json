@@ -1,0 +1,549 @@
+{
+ "bra": {
+  "title": "Colour-Block Faux Two-Piece Bra",
+  "price": "32.99",
+  "handle": "colour-block-faux-two-piece-bra",
+  "colours": [
+   {
+    "name": "Cherry Ice",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-04_ab05e2c5-dda6-48f7-a289-38206dc3f2ce.webp",
+    "idx": 0,
+    "local": "assets/bra/colours/cherry-ice.jpg"
+   },
+   {
+    "name": "Navy Cherry",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-03_9401d02a-7a3a-4d51-acee-6c9ef7ebc781.webp",
+    "idx": 1,
+    "local": "assets/bra/colours/navy-cherry.jpg"
+   },
+   {
+    "name": "Ice Butter",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-05_36079837-dd1f-4f55-bcb1-8076a4bac445.webp",
+    "idx": 2,
+    "local": "assets/bra/colours/ice-butter.jpg"
+   },
+   {
+    "name": "Navy Butter",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-02_e5cc9e83-ae5e-4ef4-92ad-0a4fa4505406.webp",
+    "idx": 3,
+    "local": "assets/bra/colours/navy-butter.jpg"
+   },
+   {
+    "name": "Black",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-01_72707b26-ffc3-4b03-a8bb-bf224544c7a3.webp",
+    "idx": 4,
+    "local": "assets/bra/colours/black.jpg"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "images": [
+   "assets/bra/sh/0.jpg",
+   "assets/bra/sh/1.jpg",
+   "assets/bra/sh/2.jpg",
+   "assets/bra/sh/3.jpg",
+   "assets/bra/sh/4.jpg",
+   "assets/bra/sh/5.jpg",
+   "assets/bra/sh/6.jpg",
+   "assets/bra/sh/7.jpg",
+   "assets/bra/sh/8.jpg",
+   "assets/bra/sh/9.jpg",
+   "assets/bra/sh/10.jpg",
+   "assets/bra/sh/11.jpg"
+  ],
+  "bullets": [
+   "Two layers, one bra. The Colour-Block Faux Two-Piece Bra takes a fitted underband and builds a cropped overlay over it, so the block colour panels read as a stacked\u2026",
+   "Wide, flat straps sit cleanly on the shoulder without digging, and the underband is finished with a soft edge so it stays put without leaving a hard line under a\u2026",
+   "Fit runs true to size; size up if you prefer a looser band. Machine wash cold, line dry, do not bleach or iron."
+  ],
+  "n_var": 20
+ },
+ "cami": {
+  "title": "Colour-Block Halter Cami",
+  "price": "32.99",
+  "handle": "colour-block-halter-cami",
+  "colours": [
+   {
+    "name": "Cherry Ice",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-04_9cd93578-e318-4382-b9b2-fbc2758a0953.webp",
+    "idx": 0,
+    "local": "assets/cami/colours/cherry-ice.jpg"
+   },
+   {
+    "name": "Navy Blue",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-03_1462240f-188d-4d74-9b7e-0c55b901d7fe.webp",
+    "idx": 1,
+    "local": "assets/cami/colours/navy-blue.jpg"
+   },
+   {
+    "name": "White",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-05_2a2ab0d0-3212-420f-8e45-ad1b17a220e6.webp",
+    "idx": 2,
+    "local": "assets/cami/colours/white.jpg"
+   },
+   {
+    "name": "Navy Butter",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-02_5c526a56-c080-49aa-86ba-cf6d54980d86.webp",
+    "idx": 3,
+    "local": "assets/cami/colours/navy-butter.jpg"
+   },
+   {
+    "name": "Black",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-01_d6b03559-dab8-48bc-b266-eaefa222041d.webp",
+    "idx": 4,
+    "local": "assets/cami/colours/black.jpg"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "images": [
+   "assets/cami/sh/0.jpg",
+   "assets/cami/sh/1.jpg",
+   "assets/cami/sh/2.jpg",
+   "assets/cami/sh/3.jpg",
+   "assets/cami/sh/4.jpg",
+   "assets/cami/sh/5.jpg",
+   "assets/cami/sh/6.jpg",
+   "assets/cami/sh/7.jpg",
+   "assets/cami/sh/8.jpg",
+   "assets/cami/sh/9.jpg",
+   "assets/cami/sh/10.jpg",
+   "assets/cami/sh/11.jpg"
+  ],
+  "bullets": [
+   "The light layer in the range. The Colour-Block Halter Cami is a soft stretch knit tank cut with a halter neckline that gathers into a narrow strap at the back of\u2026",
+   "The body is cut close but not tight, with a straight hem that finishes near the top of a high-rise waistband so it layers without bunching.",
+   "Fit runs true to size; the halter adjusts slightly at the neck tie. Machine wash cold with like colours, dry flat, do not bleach or iron."
+  ],
+  "n_var": 20
+ },
+ "ls": {
+  "title": "Colour-Block Halter Long Sleeve",
+  "price": "37.99",
+  "handle": "colour-block-halter-long-sleeve",
+  "colours": [
+   {
+    "name": "Cherry Ice",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-04_514d01e1-d4e7-427d-bd93-461426feb1e6.webp",
+    "idx": 0,
+    "local": "assets/ls/colours/cherry-ice.jpg"
+   },
+   {
+    "name": "Badge Blue",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-03_17535f8e-76d7-4c28-9e41-951b65534caa.webp",
+    "idx": 1,
+    "local": "assets/ls/colours/badge-blue.jpg"
+   },
+   {
+    "name": "Swan White",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-05_1d880baa-a1e6-4118-bb93-747eb36102d7.webp",
+    "idx": 2,
+    "local": "assets/ls/colours/swan-white.jpg"
+   },
+   {
+    "name": "Navy Butter",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-02_cb02bfa6-c71b-442c-a89e-262e46d6fe1d.webp",
+    "idx": 3,
+    "local": "assets/ls/colours/navy-butter.jpg"
+   },
+   {
+    "name": "Black",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-01_0573417a-2c85-48cf-b515-e2852afbb458.webp",
+    "idx": 4,
+    "local": "assets/ls/colours/black.jpg"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "images": [
+   "assets/ls/sh/0.jpg",
+   "assets/ls/sh/1.jpg",
+   "assets/ls/sh/2.jpg",
+   "assets/ls/sh/3.jpg",
+   "assets/ls/sh/4.jpg",
+   "assets/ls/sh/5.jpg",
+   "assets/ls/sh/6.jpg",
+   "assets/ls/sh/7.jpg",
+   "assets/ls/sh/8.jpg",
+   "assets/ls/sh/9.jpg",
+   "assets/ls/sh/10.jpg",
+   "assets/ls/sh/11.jpg"
+  ],
+  "bullets": [
+   "The halter neckline, run into full sleeves. The Colour-Block Halter Long Sleeve uses the same soft stretch knit as the rest of the range",
+   "The halter cut keeps the shoulders bare and the back open, while the sleeves are cut slim to the wrist so they sit cleanly under a jacket or a hoodie.",
+   "Fit runs true to size with a close, easy body. Machine wash cold with like colours, line dry, do not bleach or iron."
+  ],
+  "n_var": 20
+ },
+ "pants": {
+  "title": "Colour-Block Wide-Leg Pants",
+  "price": "36.99",
+  "handle": "colour-block-wide-leg-pants",
+  "colours": [
+   {
+    "name": "Mist Blue",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-02_be6c322e-e9ef-4008-8699-38bb2b02acda.webp",
+    "idx": 0,
+    "local": "assets/pants/colours/mist-blue.jpg"
+   },
+   {
+    "name": "Cherry",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-03_8fb24b4a-5550-4273-a35f-2f331ed2640e.webp",
+    "idx": 1,
+    "local": "assets/pants/colours/cherry.jpg"
+   },
+   {
+    "name": "Off-white",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-04_ca16ff9a-992d-461f-8aa1-3442f0756647.webp",
+    "idx": 2,
+    "local": "assets/pants/colours/off-white.jpg"
+   },
+   {
+    "name": "Black",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-01_a7b3c720-822c-432a-831b-520b92100edd.webp",
+    "idx": 3,
+    "local": "assets/pants/colours/black.jpg"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "images": [
+   "assets/pants/sh/0.jpg",
+   "assets/pants/sh/1.jpg",
+   "assets/pants/sh/2.jpg",
+   "assets/pants/sh/3.jpg",
+   "assets/pants/sh/4.jpg",
+   "assets/pants/sh/5.jpg",
+   "assets/pants/sh/6.jpg",
+   "assets/pants/sh/7.jpg",
+   "assets/pants/sh/8.jpg",
+   "assets/pants/sh/9.jpg",
+   "assets/pants/sh/10.jpg",
+   "assets/pants/sh/11.jpg"
+  ],
+  "bullets": [
+   "A clean wide leg with no fold-over band \u2014 a wide, flat waistband and a straight fall from hip to hem.",
+   "The waist sits at the natural high point and stays there through forward folds and long holds, while the leg opens below the hip so it skims the thigh rather than\u2026",
+   "Fit runs true to size; the waistband has plenty of give. Machine wash cold with like colours, line dry, do not bleach or iron."
+  ],
+  "n_var": 16
+ },
+ "fold": {
+  "title": "Colour-Block Fold-Over Wide-Leg Pants",
+  "price": "39.99",
+  "handle": "colour-block-fold-over-pants",
+  "colours": [
+   {
+    "name": "Berry Rose",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-04_0cca5019-1d44-47ec-b209-a0e5523b6687.webp",
+    "idx": 0,
+    "local": "assets/fold/colours/berry-rose.jpg"
+   },
+   {
+    "name": "Phantom Blue",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-03_df3cfa61-f42a-436e-a2ce-9edef86aa0af.webp",
+    "idx": 1,
+    "local": "assets/fold/colours/phantom-blue.jpg"
+   },
+   {
+    "name": "Cream Apricot",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-05_3cff3f8e-4197-43b1-8aa4-e6b7be87c8d3.webp",
+    "idx": 2,
+    "local": "assets/fold/colours/cream-apricot.jpg"
+   },
+   {
+    "name": "Navy Butter",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-02_57eb790c-93b9-45cc-930e-07520ddf5542.webp",
+    "idx": 3,
+    "local": "assets/fold/colours/navy-butter.jpg"
+   },
+   {
+    "name": "Black Coffee",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-01_56606dea-ffb4-4fa1-b5cb-89f74849f2f2.webp",
+    "idx": 4,
+    "local": "assets/fold/colours/black-coffee.jpg"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "images": [
+   "assets/fold/sh/0.jpg",
+   "assets/fold/sh/1.jpg",
+   "assets/fold/sh/2.jpg",
+   "assets/fold/sh/3.jpg",
+   "assets/fold/sh/4.jpg",
+   "assets/fold/sh/5.jpg",
+   "assets/fold/sh/6.jpg",
+   "assets/fold/sh/7.jpg",
+   "assets/fold/sh/8.jpg",
+   "assets/fold/sh/9.jpg",
+   "assets/fold/sh/10.jpg"
+  ],
+  "bullets": [
+   "High-waisted, wide-legged, and built around a fold-over band. The Colour-Block Fold-Over Wide-Leg Pants start with a deep waistband you can wear folded up for full\u2026",
+   "Below the band the leg opens into a straight wide cut that falls from the hip without pulling across the thigh, with colour-block panels running down the side so\u2026",
+   "Fit runs true to size; the band holds on its own. Machine wash cold with like colours, line dry, do not bleach or iron."
+  ],
+  "n_var": 20
+ },
+ "fauxset": {
+  "title": "Colour-Block Faux Two-Piece Set",
+  "price": "64.99",
+  "handle": "colour-block-faux-two-piece-set",
+  "colours": [
+   {
+    "name": "Cherry Ice",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-04_0fea2ddf-9b4d-4f73-a0c3-04bc6937d72b.webp",
+    "idx": 0,
+    "local": "assets/fauxset/colours/cherry-ice.jpg"
+   },
+   {
+    "name": "Navy Cherry",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-03_9c7c4f0f-3bdc-495c-bf0a-3918f0deb1cd.webp",
+    "idx": 2,
+    "local": "assets/fauxset/colours/navy-cherry.jpg"
+   },
+   {
+    "name": "Ice Butter",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-05_9a611c24-8e51-46de-87f2-1d2d6f5e2063.webp",
+    "idx": 4,
+    "local": "assets/fauxset/colours/ice-butter.jpg"
+   },
+   {
+    "name": "Navy Butter",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-02_97f3b774-33bf-4965-8ab2-dd16caf2bbd8.webp",
+    "idx": 6,
+    "local": "assets/fauxset/colours/navy-butter.jpg"
+   },
+   {
+    "name": "Black Butter",
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "https://cdn.shopify.com/s/files/1/1010/2482/5658/files/SKU-01_90572fed-fad1-4706-bd73-164631368dfd.webp",
+    "idx": 8,
+    "local": "assets/fauxset/colours/black-butter.jpg"
+   }
+  ],
+  "sizes": [
+   "S",
+   "M",
+   "L",
+   "XL"
+  ],
+  "images": [
+   "assets/fauxset/sh/0.jpg",
+   "assets/fauxset/sh/1.jpg",
+   "assets/fauxset/sh/2.jpg",
+   "assets/fauxset/sh/3.jpg",
+   "assets/fauxset/sh/4.jpg",
+   "assets/fauxset/sh/5.jpg",
+   "assets/fauxset/sh/6.jpg",
+   "assets/fauxset/sh/7.jpg",
+   "assets/fauxset/sh/8.jpg",
+   "assets/fauxset/sh/9.jpg",
+   "assets/fauxset/sh/10.jpg",
+   "assets/fauxset/sh/11.jpg",
+   "assets/fauxset/sh/12.jpg",
+   "assets/fauxset/sh/13.jpg"
+  ],
+  "bullets": [
+   "A matching bra-and-pant pairing cut from the same soft stretch knit, built to read as two stacked pieces while wearing like one easy set.",
+   "The pants sit high on the waist with a deep fold-over band you can wear up for coverage or rolled down to sit lower on the hip, then fall into a straight wide leg\u2026",
+   "Fit runs true to size with an easy, unconstricted body. Machine wash cold with like colours, line dry, do not bleach or iron."
+  ],
+  "n_var": 20
+ }
+}
