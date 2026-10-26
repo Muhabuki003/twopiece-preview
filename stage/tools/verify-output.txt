@@ -1,0 +1,137 @@
+==============================================================================
+A. HTTP 200 — pages  (curl http://127.0.0.2:8099/)
+==============================================================================
+PASS  index.html                                                 HTTP 200
+PASS  bra.html                                                   HTTP 200
+PASS  cami.html                                                  HTTP 200
+PASS  ls.html                                                    HTTP 200
+PASS  pants.html                                                 HTTP 200
+PASS  fold.html                                                  HTTP 200
+PASS  fauxset.html                                               HTTP 200
+
+==============================================================================
+B. HTTP 200 — every referenced local asset  (38 unique)
+==============================================================================
+PASS  assets/bra/3.jpg                                           HTTP 200
+PASS  assets/bra/4.jpg                                           HTTP 200
+PASS  assets/bra/5.jpg                                           HTTP 200
+PASS  assets/bra/colours/azure-blue-against-yellow.jpg           HTTP 200
+PASS  assets/bra/colours/meteorite-black-against-yellow.jpg      HTTP 200
+PASS  assets/bra/colours/pomegranate-red-against-blue.jpg        HTTP 200
+PASS  assets/cami/0.jpg                                          HTTP 200
+PASS  assets/cami/1.jpg                                          HTTP 200
+PASS  assets/cami/2.jpg                                          HTTP 200
+PASS  assets/cami/3.jpg                                          HTTP 200
+PASS  assets/cami/4.jpg                                          HTTP 200
+PASS  assets/cami/colours/white.jpg                              HTTP 200
+PASS  assets/fauxset/0.jpg                                       HTTP 200
+PASS  assets/fauxset/3.jpg                                       HTTP 200
+PASS  assets/fauxset/4.jpg                                       HTTP 200
+PASS  assets/fauxset/5.jpg                                       HTTP 200
+PASS  assets/fauxset/colours/biluo-blue-yellow.jpg               HTTP 200
+PASS  assets/fauxset/colours/pomegranate-red-blue.jpg            HTTP 200
+PASS  assets/fold/0.jpg                                          HTTP 200
+PASS  assets/fold/1.jpg                                          HTTP 200
+PASS  assets/fold/2.jpg                                          HTTP 200
+PASS  assets/fold/4.jpg                                          HTTP 200
+PASS  assets/fold/5.jpg                                          HTTP 200
+PASS  assets/fold/colours/cream-apricot.jpg                      HTTP 200
+PASS  assets/ls/0.jpg                                            HTTP 200
+PASS  assets/ls/1.jpg                                            HTTP 200
+PASS  assets/ls/2.jpg                                            HTTP 200
+PASS  assets/ls/3.jpg                                            HTTP 200
+PASS  assets/ls/4.jpg                                            HTTP 200
+PASS  assets/ls/colours/premium-black-long-sleeves.jpg           HTTP 200
+PASS  assets/pants/crop/black.jpg                                HTTP 200
+PASS  assets/pants/crop/brown.jpg                                HTTP 200
+PASS  assets/pants/crop/gray.jpg                                 HTTP 200
+PASS  assets/pants/crop/hero.jpg                                 HTTP 200
+PASS  assets/pants/crop/mist-blue.jpg                            HTTP 200
+PASS  assets/pants/crop/off-white.jpg                            HTTP 200
+PASS  assets/site.css                                            HTTP 200
+PASS  assets/site.js                                             HTTP 200
+
+==============================================================================
+B2. HTTP 200 — every file under assets/ (referenced or not) + spec.json
+==============================================================================
+PASS  all 99 files on disk serve HTTP 200                        []
+
+==============================================================================
+B3. Every JPEG on disk decodes (PIL) with sane dimensions
+==============================================================================
+PASS  90 JPEGs decode                                            []
+PASS  90 JPEGs are >= 300px on both sides                        []
+
+==============================================================================
+C. Every <img src> resolves to a file on disk
+==============================================================================
+PASS  index.html — 7 <img> tags                                  all present
+PASS  bra.html — 10 <img> tags                                   all present
+PASS  cami.html — 10 <img> tags                                  all present
+PASS  ls.html — 10 <img> tags                                    all present
+PASS  pants.html — 10 <img> tags                                 all present
+PASS  fold.html — 10 <img> tags                                  all present
+PASS  fauxset.html — 10 <img> tags                               all present
+
+==============================================================================
+D. Each product page references >= 3 existing images
+==============================================================================
+PASS  bra.html — 9 distinct existing images                      
+PASS  cami.html — 9 distinct existing images                     
+PASS  ls.html — 9 distinct existing images                       
+PASS  pants.html — 9 distinct existing images                    
+PASS  fold.html — 9 distinct existing images                     
+PASS  fauxset.html — 9 distinct existing images                  
+
+==============================================================================
+E. Excluded 7th SKU absent (keyword scan of every text file)
+==============================================================================
+PASS  excluded-SKU keywords absent from pages, CSS and JS        0 matches across 9 text files
+
+==============================================================================
+F. No external references (no CDN, no Google Fonts, no remote images)
+==============================================================================
+PASS  no http(s)/CDN/font references                             []
+
+==============================================================================
+G. Mobile CSS — no fixed width / min-width above 390px
+==============================================================================
+PASS  site.css width/min-width > 390px                           7 fixed widths declared, max 54 px
+      note: 4 max-width caps (420, 520, 719, 1180 px) — caps, not fixed widths
+PASS  inline widths > 390px in pages                             []
+PASS  tap targets: chips declared min-height:44px                
+PASS  tap targets: thumbnails declared min-height:44px           
+PASS  thumbnail grid reflows at 420px                            
+
+==============================================================================
+H. Page furniture (viewport, title, staging notice, noindex)
+==============================================================================
+PASS  index.html furniture                                       complete
+PASS  bra.html furniture                                         complete
+PASS  cami.html furniture                                        complete
+PASS  ls.html furniture                                          complete
+PASS  pants.html furniture                                       complete
+PASS  fold.html furniture                                        complete
+PASS  fauxset.html furniture                                     complete
+
+==============================================================================
+I. Data integrity — inline PRODUCT objects vs spec.json
+==============================================================================
+PASS  bra — SPU SUWOCIB00672, 5 colourways, 12 variants          
+PASS  cami — SPU SUSPAWY00629, 6 colourways, 24 variants         
+PASS  ls — SPU SUSPAWY00468, 16 colourways, 64 variants          
+PASS  pants — SPU SUSPAWY00650, 5 colourways, 25 variants        
+PASS  fold — SPU SUSPAWY00645, 12 colourways, 39 variants        
+PASS  fauxset — SPU SUSPAWY00668, 4 colourways, 9 variants       
+
+==============================================================================
+J. Cross-linking (index <-> products)
+==============================================================================
+PASS  index links to all six product pages                       []
+PASS  every product page links back to index                     []
+
+==============================================================================
+SUMMARY
+==============================================================================
+checks: 83   passed: 83   failed: 0   <img> tags across pages: 67   assets referenced: 38
+ALL CHECKS PASSED

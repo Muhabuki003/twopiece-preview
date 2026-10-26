@@ -1,0 +1,829 @@
+{
+ "bra": {
+  "name": "Faux Two-Piece Bra",
+  "spu": "SUWOCIB00672",
+  "slug": "bra",
+  "cost": 7.39,
+  "price_range": "7.39",
+  "images": [
+   "assets/bra/0.jpg",
+   "assets/bra/1.jpg",
+   "assets/bra/2.jpg",
+   "assets/bra/3.jpg",
+   "assets/bra/4.jpg",
+   "assets/bra/5.jpg"
+  ],
+  "colours": {
+   "Meteorite black against yellow": {
+    "sizes": [
+     "XL"
+    ],
+    "img": "assets/bra/colours/meteorite-black-against-yellow.jpg"
+   },
+   "Dark blue with yellow accents": {
+    "sizes": [
+     "S",
+     "XL"
+    ],
+    "img": "assets/bra/colours/dark-blue-with-yellow-accents.jpg"
+   },
+   "Blue and red collide": {
+    "sizes": [
+     "L",
+     "XL"
+    ],
+    "img": "assets/bra/colours/blue-and-red-collide.jpg"
+   },
+   "Pomegranate red against blue": {
+    "sizes": [
+     "S",
+     "M",
+     "L"
+    ],
+    "img": "assets/bra/colours/pomegranate-red-against-blue.jpg"
+   },
+   "Azure blue against yellow": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/bra/colours/azure-blue-against-yellow.jpg"
+   }
+  },
+  "n_variants": 12,
+  "detail_keys": [
+   "availableCountry",
+   "availableCountryEn",
+   "categoryId",
+   "categoryName",
+   "categoryNameEn",
+   "description",
+   "directDeliveryDiscountPrice",
+   "discountProductPrice",
+   "id",
+   "image",
+   "images",
+   "isGlobalWarehouse",
+   "isPod",
+   "isServiceProduct",
+   "logisticsAttr",
+   "logisticsAttrEn",
+   "logisticsAttrKey",
+   "material",
+   "materialEn",
+   "materialKey",
+   "minOrderQty",
+   "modeSupply",
+   "modelId",
+   "modelName",
+   "name",
+   "nameEn",
+   "oneCategoryId",
+   "packWeight",
+   "packing",
+   "packingKey",
+   "physicalDrawing",
+   "podDesignBaseList",
+   "podSource",
+   "podTemplateLevel",
+   "podType",
+   "privateDiscountPrice",
+   "productPrice",
+   "productType",
+   "property",
+   "propertyEn",
+   "secondTemplateId",
+   "shipmentCountry",
+   "shipmentCountryEn",
+   "spu",
+   "supplierId",
+   "twoCategoryId",
+   "variantList",
+   "videoUrl",
+   "weight"
+  ]
+ },
+ "cami": {
+  "name": "Halter Cami",
+  "spu": "SUSPAWY00629",
+  "slug": "cami",
+  "cost": 7.85,
+  "price_range": "7.85",
+  "images": [
+   "assets/cami/0.jpg",
+   "assets/cami/1.jpg",
+   "assets/cami/2.jpg",
+   "assets/cami/3.jpg",
+   "assets/cami/4.jpg",
+   "assets/cami/5.jpg"
+  ],
+  "colours": {
+   "White": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/cami/colours/white.jpg"
+   },
+   "Dark brown": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/cami/colours/dark-brown.jpg"
+   },
+   "Green": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/cami/colours/green.jpg"
+   },
+   "Navy blue": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/cami/colours/navy-blue.jpg"
+   },
+   "Purple": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/cami/colours/purple.jpg"
+   },
+   "Black": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/cami/colours/black.jpg"
+   }
+  },
+  "n_variants": 24,
+  "detail_keys": [
+   "availableCountry",
+   "availableCountryEn",
+   "categoryId",
+   "categoryName",
+   "categoryNameEn",
+   "description",
+   "directDeliveryDiscountPrice",
+   "discountProductPrice",
+   "id",
+   "image",
+   "images",
+   "isGlobalWarehouse",
+   "isPod",
+   "isServiceProduct",
+   "logisticsAttr",
+   "logisticsAttrEn",
+   "logisticsAttrKey",
+   "material",
+   "materialEn",
+   "materialKey",
+   "minOrderQty",
+   "modeSupply",
+   "modelId",
+   "modelName",
+   "name",
+   "nameEn",
+   "oneCategoryId",
+   "packWeight",
+   "packing",
+   "packingKey",
+   "physicalDrawing",
+   "podDesignBaseList",
+   "podSource",
+   "podTemplateLevel",
+   "podType",
+   "privateDiscountPrice",
+   "productPrice",
+   "productType",
+   "property",
+   "propertyEn",
+   "secondTemplateId",
+   "shipmentCountry",
+   "shipmentCountryEn",
+   "spu",
+   "supplierId",
+   "twoCategoryId",
+   "variantList",
+   "videoUrl",
+   "weight"
+  ]
+ },
+ "ls": {
+  "name": "Halter Long Sleeve",
+  "spu": "SUSPAWY00468",
+  "slug": "ls",
+  "cost": 5.15,
+  "price_range": "5.15-12.11",
+  "images": [
+   "assets/ls/0.jpg",
+   "assets/ls/1.jpg",
+   "assets/ls/2.jpg",
+   "assets/ls/3.jpg",
+   "assets/ls/4.jpg",
+   "assets/ls/5.jpg"
+  ],
+  "colours": {
+   "Premium black long sleeves": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/premium-black-long-sleeves.jpg"
+   },
+   "Extremely gray long sleeves": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/extremely-gray-long-sleeves.jpg"
+   },
+   "Swan white long sleeves": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/swan-white-long-sleeves.jpg"
+   },
+   "Badge blue long sleeves": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/badge-blue-long-sleeves.jpg"
+   },
+   "Premium black bra": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/premium-black-bra.jpg"
+   },
+   "Extremely gray bra": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/extremely-gray-bra.jpg"
+   },
+   "Swan white bra": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/swan-white-bra.jpg"
+   },
+   "Badge blue bra": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/badge-blue-bra.jpg"
+   },
+   "High-end black long sleeves  shorts": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/high-end-black-long-sleeves-shorts.jpg"
+   },
+   "Extremely gray long sleeves  shorts": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/extremely-gray-long-sleeves-shorts.jpg"
+   },
+   "Swan white long sleeves  shorts": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/swan-white-long-sleeves-shorts.jpg"
+   },
+   "Badge blue long sleeves  shorts": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/badge-blue-long-sleeves-shorts.jpg"
+   },
+   "Advanced black long sleeves  trousers": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/advanced-black-long-sleeves-trousers.jpg"
+   },
+   "Extremely gray long sleeves  trousers": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/extremely-gray-long-sleeves-trousers.jpg"
+   },
+   "Swan white long sleeves  long pants": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/swan-white-long-sleeves-long-pants.jpg"
+   },
+   "Badge blue long sleeves  trousers": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/ls/colours/badge-blue-long-sleeves-trousers.jpg"
+   }
+  },
+  "n_variants": 64,
+  "detail_keys": [
+   "availableCountry",
+   "availableCountryEn",
+   "categoryId",
+   "categoryName",
+   "categoryNameEn",
+   "description",
+   "directDeliveryDiscountPrice",
+   "discountProductPrice",
+   "id",
+   "image",
+   "images",
+   "isGlobalWarehouse",
+   "isPod",
+   "isServiceProduct",
+   "logisticsAttr",
+   "logisticsAttrEn",
+   "logisticsAttrKey",
+   "material",
+   "materialEn",
+   "materialKey",
+   "minOrderQty",
+   "modeSupply",
+   "modelId",
+   "modelName",
+   "name",
+   "nameEn",
+   "oneCategoryId",
+   "packWeight",
+   "packing",
+   "packingKey",
+   "physicalDrawing",
+   "podDesignBaseList",
+   "podSource",
+   "podTemplateLevel",
+   "podType",
+   "privateDiscountPrice",
+   "productPrice",
+   "productType",
+   "property",
+   "propertyEn",
+   "secondTemplateId",
+   "shipmentCountry",
+   "shipmentCountryEn",
+   "spu",
+   "supplierId",
+   "twoCategoryId",
+   "variantList",
+   "videoUrl",
+   "weight"
+  ]
+ },
+ "pants": {
+  "name": "Wide-Leg Pants",
+  "spu": "SUSPAWY00650",
+  "slug": "pants",
+  "cost": 5.38,
+  "price_range": "5.38",
+  "images": [
+   "assets/pants/0.jpg",
+   "assets/pants/1.jpg",
+   "assets/pants/2.jpg",
+   "assets/pants/3.jpg",
+   "assets/pants/4.jpg",
+   "assets/pants/5.jpg"
+  ],
+  "colours": {
+   "Black": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL"
+    ],
+    "img": "assets/pants/colours/black.jpg"
+   },
+   "Off-white": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL"
+    ],
+    "img": "assets/pants/colours/off-white.jpg"
+   },
+   "Gray": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL"
+    ],
+    "img": "assets/pants/colours/gray.jpg"
+   },
+   "Brown": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL"
+    ],
+    "img": "assets/pants/colours/brown.jpg"
+   },
+   "Mist blue": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL"
+    ],
+    "img": "assets/pants/colours/mist-blue.jpg"
+   }
+  },
+  "n_variants": 25,
+  "detail_keys": [
+   "availableCountry",
+   "availableCountryEn",
+   "categoryId",
+   "categoryName",
+   "categoryNameEn",
+   "description",
+   "directDeliveryDiscountPrice",
+   "discountProductPrice",
+   "id",
+   "image",
+   "images",
+   "isGlobalWarehouse",
+   "isPod",
+   "isServiceProduct",
+   "logisticsAttr",
+   "logisticsAttrEn",
+   "logisticsAttrKey",
+   "material",
+   "materialEn",
+   "materialKey",
+   "minOrderQty",
+   "modeSupply",
+   "modelId",
+   "modelName",
+   "name",
+   "nameEn",
+   "oneCategoryId",
+   "packWeight",
+   "packing",
+   "packingKey",
+   "physicalDrawing",
+   "podDesignBaseList",
+   "podSource",
+   "podTemplateLevel",
+   "podType",
+   "privateDiscountPrice",
+   "productPrice",
+   "productType",
+   "property",
+   "propertyEn",
+   "secondTemplateId",
+   "shipmentCountry",
+   "shipmentCountryEn",
+   "spu",
+   "supplierId",
+   "twoCategoryId",
+   "variantList",
+   "videoUrl",
+   "weight"
+  ]
+ },
+ "fold": {
+  "name": "Fold-Over Wide-Leg Pants",
+  "spu": "SUSPAWY00645",
+  "slug": "fold",
+  "cost": 11.1,
+  "price_range": "11.1",
+  "images": [
+   "assets/fold/0.jpg",
+   "assets/fold/1.jpg",
+   "assets/fold/2.jpg",
+   "assets/fold/3.jpg",
+   "assets/fold/4.jpg",
+   "assets/fold/5.jpg"
+  ],
+  "colours": {
+   "Cream apricot": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/fold/colours/cream-apricot.jpg"
+   },
+   "Mist charcoal gray": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/fold/colours/mist-charcoal-gray.jpg"
+   },
+   "Olive green": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/fold/colours/olive-green.jpg"
+   },
+   "Berry rose": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/fold/colours/berry-rose.jpg"
+   },
+   "Raspberry red": {
+    "sizes": [
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/fold/colours/raspberry-red.jpg"
+   },
+   "Black coffee": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/fold/colours/black-coffee.jpg"
+   },
+   "Badge blue": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/fold/colours/badge-blue.jpg"
+   },
+   "Moss green": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/fold/colours/moss-green.jpg"
+   },
+   "Eggplant purple": {
+    "sizes": [
+     "S",
+     "XL"
+    ],
+    "img": "assets/fold/colours/eggplant-purple.jpg"
+   },
+   "Phantom blue": {
+    "sizes": [
+     "M",
+     "L",
+     "XL"
+    ],
+    "img": "assets/fold/colours/phantom-blue.jpg"
+   },
+   "Falling cherry blossom powder": {
+    "sizes": [
+     "M",
+     "L"
+    ],
+    "img": "assets/fold/colours/falling-cherry-blossom-powder.jpg"
+   },
+   "Lilac purple": {
+    "sizes": [
+     "S"
+    ],
+    "img": "assets/fold/colours/lilac-purple.jpg"
+   }
+  },
+  "n_variants": 39,
+  "detail_keys": [
+   "availableCountry",
+   "availableCountryEn",
+   "categoryId",
+   "categoryName",
+   "categoryNameEn",
+   "description",
+   "directDeliveryDiscountPrice",
+   "discountProductPrice",
+   "id",
+   "image",
+   "images",
+   "isGlobalWarehouse",
+   "isPod",
+   "isServiceProduct",
+   "logisticsAttr",
+   "logisticsAttrEn",
+   "logisticsAttrKey",
+   "material",
+   "materialEn",
+   "materialKey",
+   "minOrderQty",
+   "modeSupply",
+   "modelId",
+   "modelName",
+   "name",
+   "nameEn",
+   "oneCategoryId",
+   "packWeight",
+   "packing",
+   "packingKey",
+   "physicalDrawing",
+   "podDesignBaseList",
+   "podSource",
+   "podTemplateLevel",
+   "podType",
+   "privateDiscountPrice",
+   "productPrice",
+   "productType",
+   "property",
+   "propertyEn",
+   "secondTemplateId",
+   "shipmentCountry",
+   "shipmentCountryEn",
+   "spu",
+   "supplierId",
+   "twoCategoryId",
+   "variantList",
+   "videoUrl",
+   "weight"
+  ]
+ },
+ "fauxset": {
+  "name": "Faux Two-Piece Set",
+  "spu": "SUSPAWY00668",
+  "slug": "fauxset",
+  "cost": 17.96,
+  "price_range": "17.96",
+  "images": [
+   "assets/fauxset/0.jpg",
+   "assets/fauxset/1.jpg",
+   "assets/fauxset/2.jpg",
+   "assets/fauxset/3.jpg",
+   "assets/fauxset/4.jpg",
+   "assets/fauxset/5.jpg"
+  ],
+  "colours": {
+   "Maoqing Blue Yellow": {
+    "sizes": [
+     "S",
+     "XL"
+    ],
+    "img": "assets/fauxset/colours/maoqing-blue-yellow.jpg"
+   },
+   "Maoqing Blue Red": {
+    "sizes": [
+     "XL"
+    ],
+    "img": "assets/fauxset/colours/maoqing-blue-red.jpg"
+   },
+   "Pomegranate Red Blue": {
+    "sizes": [
+     "S",
+     "M",
+     "L"
+    ],
+    "img": "assets/fauxset/colours/pomegranate-red-blue.jpg"
+   },
+   "Biluo Blue Yellow": {
+    "sizes": [
+     "S",
+     "M",
+     "XL"
+    ],
+    "img": "assets/fauxset/colours/biluo-blue-yellow.jpg"
+   }
+  },
+  "n_variants": 9,
+  "detail_keys": [
+   "availableCountry",
+   "availableCountryEn",
+   "categoryId",
+   "categoryName",
+   "categoryNameEn",
+   "description",
+   "directDeliveryDiscountPrice",
+   "discountProductPrice",
+   "id",
+   "image",
+   "images",
+   "isGlobalWarehouse",
+   "isPod",
+   "isServiceProduct",
+   "logisticsAttr",
+   "logisticsAttrEn",
+   "logisticsAttrKey",
+   "material",
+   "materialEn",
+   "materialKey",
+   "minOrderQty",
+   "modeSupply",
+   "modelId",
+   "modelName",
+   "name",
+   "nameEn",
+   "oneCategoryId",
+   "packWeight",
+   "packing",
+   "packingKey",
+   "physicalDrawing",
+   "podDesignBaseList",
+   "podSource",
+   "podTemplateLevel",
+   "podType",
+   "privateDiscountPrice",
+   "productPrice",
+   "productType",
+   "property",
+   "propertyEn",
+   "secondTemplateId",
+   "shipmentCountry",
+   "shipmentCountryEn",
+   "spu",
+   "supplierId",
+   "twoCategoryId",
+   "variantList",
+   "videoUrl",
+   "weight"
+  ]
+ }
+}
