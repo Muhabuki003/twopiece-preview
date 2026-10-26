@@ -1,0 +1,688 @@
+{
+ "bra": {
+  "name": "Faux Two-Piece Bra",
+  "spu": "SUWOCIB00672",
+  "colours": {
+   "Meteorite black against yellow": {
+    "sizes": [
+     "XL"
+    ],
+    "n": 1
+   },
+   "Dark blue with yellow accents": {
+    "sizes": [
+     "S",
+     "XL"
+    ],
+    "n": 2
+   },
+   "Blue and red collide": {
+    "sizes": [
+     "L",
+     "XL"
+    ],
+    "n": 2
+   },
+   "Pomegranate red against blue": {
+    "sizes": [
+     "S",
+     "M",
+     "L"
+    ],
+    "n": 3
+   },
+   "Azure blue against yellow": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   }
+  },
+  "n_variants": 12
+ },
+ "set": {
+  "name": "Halter Tank + Wide-Leg Set",
+  "spu": "SUSPAWY00663",
+  "colours": {
+   "White Polka Dot Top": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Black Polka Dot Top": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Navy Blue Top": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Brown Polka Dot Top": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Black Stripe Top": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Brown Stripe Top": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Navy Blue Stripe Top": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "White Polka Dot Pants": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Black Polka Dot Pants": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Navy Blue Polka Dot Pants": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Brown Polka Dot Pants": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Black Stripe Pants": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Brown Stripe Pants": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Navy Blue Stripe Pants": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "White Polka Dot Set": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Black Polka Dot Set": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Brown Polka Dot Set": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Navy Blue Polka Dot Set": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Black Stripe Set": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Brown Stripe Set": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Navy Blue Stripe Set": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   }
+  },
+  "n_variants": 84
+ },
+ "cami": {
+  "name": "Halter Cami",
+  "spu": "SUSPAWY00629",
+  "colours": {
+   "White": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Dark brown": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Green": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Navy blue": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Purple": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Black": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   }
+  },
+  "n_variants": 24
+ },
+ "ls": {
+  "name": "Halter Long Sleeve",
+  "spu": "SUSPAWY00468",
+  "colours": {
+   "Premium black long sleeves": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Extremely gray long sleeves": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Swan white long sleeves": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Badge blue long sleeves": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Premium black bra": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Extremely gray bra": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Swan white bra": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Badge blue bra": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "High-end black long sleeves  shorts": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Extremely gray long sleeves  shorts": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Swan white long sleeves  shorts": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Badge blue long sleeves  shorts": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Advanced black long sleeves  trousers": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Extremely gray long sleeves  trousers": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Swan white long sleeves  long pants": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Badge blue long sleeves  trousers": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   }
+  },
+  "n_variants": 64
+ },
+ "pants": {
+  "name": "Wide-Leg Pants",
+  "spu": "SUSPAWY00650",
+  "colours": {
+   "Black": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL"
+    ],
+    "n": 5
+   },
+   "Off-white": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL"
+    ],
+    "n": 5
+   },
+   "Gray": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL"
+    ],
+    "n": 5
+   },
+   "Brown": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL"
+    ],
+    "n": 5
+   },
+   "Mist blue": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL",
+     "XXL"
+    ],
+    "n": 5
+   }
+  },
+  "n_variants": 25
+ },
+ "fold": {
+  "name": "Fold-Over Wide-Leg Pants",
+  "spu": "SUSPAWY00645",
+  "colours": {
+   "Cream apricot": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Mist charcoal gray": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Olive green": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Berry rose": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Raspberry red": {
+    "sizes": [
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 3
+   },
+   "Black coffee": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Badge blue": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Moss green": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Eggplant purple": {
+    "sizes": [
+     "S",
+     "XL"
+    ],
+    "n": 2
+   },
+   "Phantom blue": {
+    "sizes": [
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 3
+   },
+   "Falling cherry blossom powder": {
+    "sizes": [
+     "M",
+     "L"
+    ],
+    "n": 2
+   },
+   "Lilac purple": {
+    "sizes": [
+     "S"
+    ],
+    "n": 1
+   }
+  },
+  "n_variants": 39
+ },
+ "fauxset": {
+  "name": "Faux Two-Piece Set",
+  "spu": "SUSPAWY00668",
+  "colours": {
+   "Maoqing Blue Yellow": {
+    "sizes": [
+     "S",
+     "XL"
+    ],
+    "n": 2
+   },
+   "Maoqing Blue Red": {
+    "sizes": [
+     "XL"
+    ],
+    "n": 1
+   },
+   "Pomegranate Red Blue": {
+    "sizes": [
+     "S",
+     "M",
+     "L"
+    ],
+    "n": 3
+   },
+   "Biluo Blue Yellow": {
+    "sizes": [
+     "S",
+     "M",
+     "XL"
+    ],
+    "n": 3
+   }
+  },
+  "n_variants": 9
+ },
+ "stripe": {
+  "name": "Faux Two-Piece Stripe Set",
+  "spu": null,
+  "colours": {
+   "Black Stripe": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Navy Stripe": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   },
+   "Brown Stripe": {
+    "sizes": [
+     "S",
+     "M",
+     "L",
+     "XL"
+    ],
+    "n": 4
+   }
+  },
+  "n_variants": 12,
+  "missing": true
+ }
+}

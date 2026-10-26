@@ -38,6 +38,10 @@
   .retail{font-size:11px;color:var(--mid)}
   .pill{position:absolute;z-index:3;top:10px;left:10px;font-size:10px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;padding:5px 9px;border-radius:999px;background:var(--greenbg);color:var(--green)}
   .vars{font-size:11px;color:var(--mid)}
+  .colhead{font-size:9.5px;letter-spacing:.12em;text-transform:uppercase;color:#9a9ea6;margin-top:4px}
+  .cols{display:flex;flex-wrap:wrap;gap:4px}
+  .chip{font-size:10px;line-height:1;padding:4px 7px;border-radius:5px;background:#f3f4f6;color:#4c5157;white-space:nowrap}
+  .card.missing .chip{background:#f6f6f7;color:#a2a6ad}
   /* missing */
   .card.missing{background:#fbfbfc;border-style:dashed;border-color:#d9dbdf}
   .card.missing:hover{transform:none;box-shadow:none}
@@ -77,14 +81,14 @@
 
 <script>
 const items = [
-  {name:"Faux Two-Piece Bra", img:"img/shop_bra_0.jpg", sku:"SUWOCIB00672", cost:"$7.39", retail:"retail $32.99", vars:"12 variants", ready:true, src:"new source"},
-  {name:"Halter Tank + Wide-Leg Set", img:"img/set_0.jpg", sku:"SUSPAWY00663", cost:"$4.11–10.15", retail:"no retail yet", vars:"84 variants · new sourcing win", ready:true},
-  {name:"Halter Cami", img:"img/shop_cami_0.jpg", sku:"SUSPAWY00629", cost:"$7.85", retail:"retail $32.99", vars:"24 variants", ready:true},
-  {name:"Halter Long Sleeve", img:"img/shop_ls_0.jpg", sku:"SUSPAWY00468", cost:"$5.15–12.11", retail:"retail $37.99", vars:"64 variants", ready:true},
-  {name:"Wide-Leg Pants", img:"img/shop_pants_0.jpg", sku:"SUSPAWY00650", cost:"$5.38", retail:"retail $36.99", vars:"25 variants", ready:true},
-  {name:"Fold-Over Wide-Leg Pants", img:"img/shop_fold_0.jpg", sku:"SUSPAWY00645", cost:"$11.10", retail:"retail $39.99", vars:"39 variants", ready:true},
-  {name:"Faux Two-Piece Set", img:"img/fauxset_full.jpg", sku:"SUSPAWY00668", cost:"$17.96", retail:"retail $64.99", vars:"9 variants", ready:true},
-  {name:"Faux Two-Piece Stripe Set", img:"img/shop_stripe_0.jpg", sku:"no TD product", cost:"—", retail:"SRC00442223 failed", vars:"needs new link", ready:false}
+  {name:"Faux Two-Piece Bra", img:"img/shop_bra_0.jpg", sku:"SUWOCIB00672", cost:"$7.39", retail:"retail $32.99", vars:"12 variants", sizes:"S\u2013XL (spotty)", ready:true, colours:["Azure blue / yellow", "Pomegranate red / blue", "Blue + red", "Dark blue / yellow", "Meteorite black / yellow"]},
+  {name:"Halter Tank + Wide-Leg Set", img:"img/set_0.jpg", sku:"SUSPAWY00663", cost:"$4.11\u201310.15", retail:"no retail yet", vars:"84 variants \u00b7 7 prints \u00d7 Top/Pants/Set", sizes:"S\u2013XL", ready:true, colours:["White polka dot", "Black polka dot", "Navy polka dot", "Brown polka dot", "Black stripe", "Brown stripe", "Navy stripe"]},
+  {name:"Halter Cami", img:"img/shop_cami_0.jpg", sku:"SUSPAWY00629", cost:"$7.85", retail:"retail $32.99", vars:"24 variants", sizes:"S\u2013XL", ready:true, colours:["White", "Dark brown", "Green", "Navy blue", "Purple", "Black"]},
+  {name:"Halter Long Sleeve", img:"img/shop_ls_0.jpg", sku:"SUSPAWY00468", cost:"$5.15\u201312.11", retail:"retail $37.99", vars:"64 variants \u00b7 4 colours \u00d7 4 builds", sizes:"S\u2013XL", ready:true, colours:["Premium black", "Heather grey", "Swan white", "Badge blue"]},
+  {name:"Wide-Leg Pants", img:"img/shop_pants_0.jpg", sku:"SUSPAWY00650", cost:"$5.38", retail:"retail $36.99", vars:"25 variants", sizes:"S\u2013XXL", ready:true, colours:["Black", "Off-white", "Gray", "Brown", "Mist blue"]},
+  {name:"Fold-Over Wide-Leg Pants", img:"img/shop_fold_0.jpg", sku:"SUSPAWY00645", cost:"$11.10", retail:"retail $39.99", vars:"39 variants", sizes:"S\u2013XL (spotty)", ready:true, colours:["Cream apricot", "Mist charcoal", "Olive green", "Berry rose", "Raspberry red", "Black coffee", "Badge blue", "Moss green", "Eggplant purple", "Phantom blue", "Cherry blossom", "Lilac purple"]},
+  {name:"Faux Two-Piece Set", img:"img/fauxset_full.jpg", sku:"SUSPAWY00668", cost:"$17.96", retail:"retail $64.99", vars:"9 variants", sizes:"spotty", ready:true, colours:["Pomegranate red / blue", "Biluo blue / yellow", "Maoqing blue / yellow", "Maoqing blue / red"]},
+  {name:"Faux Two-Piece Stripe Set", img:"img/shop_stripe_0.jpg", sku:"no TD product", cost:"\u2014", retail:"SRC00442223 failed", vars:"needs new link", sizes:"draft only", ready:false, colours:["Black stripe", "Navy stripe", "Brown stripe"]}
 ];
 
 document.getElementById('grid').innerHTML = items.map(it => `
@@ -100,7 +104,9 @@ document.getElementById('grid').innerHTML = items.map(it => `
         <div class="cost">${it.cost}<small>${it.ready && it.cost !== '—' ? 'unit' : ''}</small></div>
         <div class="retail">${it.retail}</div>
       </div>
-      <div class="vars">${it.vars}${it.src ? ' &middot; ' + it.src : ''}</div>
+      <div class="vars">${it.vars}</div>
+      <div class="colhead">Colours &middot; ${it.colours.length} &middot; ${it.sizes}</div>
+      <div class="cols">${it.colours.map(c => `<span class="chip">${c}</span>`).join('')}</div>
     </div>
   </article>
 `).join('');
