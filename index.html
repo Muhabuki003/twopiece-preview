@@ -27,8 +27,8 @@
   @media(max-width:460px){.grid{grid-template-columns:1fr}}
   .card{background:var(--card);border:1px solid var(--line);border-radius:12px;overflow:hidden;display:flex;flex-direction:column;transition:transform .18s ease, box-shadow .18s ease}
   .card:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(17,18,20,.07)}
-  .shot{position:relative;aspect-ratio:1/1;background:#efeff1;overflow:hidden}
-  .shot img{width:100%;height:100%;object-fit:cover;display:block}
+  .shot{position:relative;aspect-ratio:1/1;background:#fff;overflow:hidden;padding:12px}
+  .shot img{width:100%;height:100%;object-fit:contain;display:block}
   .body{padding:14px 15px 16px;display:flex;flex-direction:column;gap:9px;flex:1}
   .name{font-size:14px;font-weight:600;line-height:1.3;margin:0}
   .sku{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11px;color:var(--mid);letter-spacing:.02em}
@@ -78,7 +78,7 @@
 <script>
 const items = [
   {name:"Faux Two-Piece Bra", img:"img/shop_bra_0.jpg", sku:"SUWOCIB00672", cost:"$7.39", retail:"retail $32.99", vars:"12 variants", ready:true, src:"new source"},
-  {name:"Halter Tank + Wide-Leg Set", img:"img/set_0.jpg", sku:"SUSPAWY00663", cost:"$4.11–10.15", retail:"84 variants", vars:"new sourcing win", ready:true},
+  {name:"Halter Tank + Wide-Leg Set", img:"img/set_0.jpg", sku:"SUSPAWY00663", cost:"$4.11–10.15", retail:"no retail yet", vars:"84 variants · new sourcing win", ready:true},
   {name:"Halter Cami", img:"img/shop_cami_0.jpg", sku:"SUSPAWY00629", cost:"$7.85", retail:"retail $32.99", vars:"24 variants", ready:true},
   {name:"Halter Long Sleeve", img:"img/shop_ls_0.jpg", sku:"SUSPAWY00468", cost:"$5.15–12.11", retail:"retail $37.99", vars:"64 variants", ready:true},
   {name:"Wide-Leg Pants", img:"img/shop_pants_0.jpg", sku:"SUSPAWY00650", cost:"$5.38", retail:"retail $36.99", vars:"25 variants", ready:true},
